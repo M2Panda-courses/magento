@@ -1,0 +1,42 @@
+1 part of courses :
+1 tasks :
+2 tasks :
+3 tasks : Create ur own custom Magento module + Install a third-party Magento module + create a composer.json file for ur module (Example : Magento courses part 1 lessons 3)
+4 tasks : Create a controller action for the blog post delail view (Example : Magento courses part 1 lessons 4 )
+5 tasks : Add dependency injection for blog post delail controller
+6 tasks : Create a page response for blog post list view + create forward from blog index to blog post list
+7 tasks : Locate a template & related block node in layout XML + Module cleanup
+8 tasks :
+9 tasks :
+10 tasks : Create a new function within a ViewModel
+11 tasks :
+12 tasks : Create cp(courses part)/1 branch
+2 part of courses :
+1 tasks :
+2 tasks :
+3 tasks :
+3 part of courses :
+1 tasks :
+2 tasks :
+3 tasks :
+4 tasks :
+5 tasks :
+6 tasks :
+7 tasks :
+8 tasks :
+9 tasks :
+10 tasks :
+11 tasks :
+
+4 part of courses :
+1 tasks :
+2 tasks :
+3 tasks :
+4 tasks :
+5 tasks :
+6 tasks :
+7 tasks :
+8 tasks :
+9 tasks :
+10 tasks :
+11 tasks :
